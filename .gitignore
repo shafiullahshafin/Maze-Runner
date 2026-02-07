@@ -4,3 +4,7 @@ __pycache__/
 venv/
 leaderboard.json
 .DS_Store
+build/
+dist/
+*.spec
+.env
